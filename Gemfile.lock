@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    spagnuolocarmine.github.io (4.15.1)
+    angelosettembre.github.io (4.15.1)
       jekyll (~> 3.7)
       jekyll-data (~> 1.0)
       jekyll-feed (~> 0.10)
@@ -112,7 +112,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 2.0.1)
   rake (~> 10.0)
-  spagnuolocarmine.github.io!
+  angelosettembre.github.io!
 
 BUNDLED WITH
    2.0.1

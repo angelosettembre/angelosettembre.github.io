@@ -18,11 +18,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Personal Homepage"
 title_separator          : "-"
-name                     : "Carmine Spagnuolo"
-description              : "Ph.D. Computer Science."
-url                      : "https://spagnuolocarmine.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Angelo Settembre"
+description              : "Computer Security Student"
+url                      : "https://angelosettembre.github.io"# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/"# the subpath of your site, e.g. "/blog"
-repository               : "spagnuolocarmine/spagnuolocarmine.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "angelosettembre/angelosettembre.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -106,52 +106,40 @@ analytics:
 
 # Site Author
 author:
-  name             : "Carmine Spagnuolo"
+  name             : "Angelo Settembre"
   avatar           : "/assets/img/logo.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. Computer Science."
+  bio              : "Computer Security Student"
   location         : "University of Salerno, Italy"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:spagnuolocarmine@gmail.com
+      url: mailto:a.settembre8@studenti.unisa.it
     - label: "Website"
       icon: "fas fa-fw fa-link"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/carmine-spagnuolo-62785b75/"
+      url: "https://www.linkedin.com/in/angelo-settembre-4a614512b/"
       # url: "https://your-website.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/spagnuolocarmine"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/spagnuolocarmine"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/spagnuolocarmine"
+      url: "https://github.com/angelosettembre"
 
 # Site Footer
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:spagnuolocarmine@gmail.com
+      url: mailto:a.settembre8@studenti.unisa.it
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/carmine-spagnuolo-62785b75/"
+      url: "https://www.linkedin.com/in/angelo-settembre-4a614512b/"
+      # url: "https://your-website.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/spagnuolocarmine"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/spagnuolocarmine"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/spagnuolocarmine"
+      url: "https://github.com/angelosettembre"
 
 
 # Reading Files

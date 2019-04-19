@@ -1,8 +1,8 @@
 ---
 layout: single
 author_profile: true
-permalink: /pubblications/
-title: "Pubblications"
+permalink: /publications/
+title: "Publications"
 last_modified_at: 2019-04-19T20:39:58-04:00
 toc: true
 ---

@@ -1,9 +1,9 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name                    = "spagnuolocarmine.github.io"
+  spec.name                    = "angelosettembre.github.io"
   spec.version                 = "4.15.1"
-  spec.authors                 = ["Carmine Spagnuolo"]
+  spec.authors                 = ["Angelo Settembre"]
 
   spec.summary                 = %q{A flexible two-column Jekyll theme.}
   spec.homepage                = "https://github.com/mmistakes/minimal-mistakes"

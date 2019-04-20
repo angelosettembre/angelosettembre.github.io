@@ -81,7 +81,7 @@ span.r {
     		<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" width="42" height="42">
     		<br>
 		<span class="c">Amazon Web Services</span>
-    		<img src="https://cdn-images-1.medium.com/max/1200/1*tFl-8wQUENETYLjX5mYWuA.png" width="42" height="42">
+    		<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="42" height="42">
     		<br>
 		<span class="c">LaTeX</span>
     		<img src="https://i.stack.imgur.com/zHFFO.png" width="42" height="42">
@@ -91,6 +91,9 @@ span.r {
     		<br>
 		<span class="c">Open SSL</span>
     		<img src="https://developer.akamai.com/sites/default/files/styles/blog_featured_image/public/2018-08/open%20ssl_0.png?itok=TSQaWD03" width="42" height="42">
+    		<br>
+		<span class="c">Wireshark</span>
+    		<img src="http://static.movingpackets.net/2014/10/wireshark-logo.png" width="42" height="42">
     		<br>
 	</li>
 </ul>

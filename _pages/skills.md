@@ -19,7 +19,7 @@ span.b {
 }
 
 span.c {
-  font-style: oblique;
+  font-style: normal;
 }
 span.r {
   color: red;
@@ -39,12 +39,16 @@ span.r {
 		<span class="c">Java Servlet</span>
     		<img src="http://10minbasics.com/wp-content/uploads/2016/03/servlets-logo.png" width="42" height="42">
     		<br>
+	</li>
+	<li>
 		<span class="c">C</span>
     		<img src="https://png.icons8.com/color/1600/c-programming" width="42" height="42">
     		<br>
 		<span class="c">MPI</span>
     		<img src="https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/MPIlogo2.gif" width="42" height="42">
     		<br>
+	</li>
+	<li>
 		<span class="c">SQL</span>
     		<img src="https://banner2.kisspng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg" width="42" height="42">
     		<br>
@@ -53,12 +57,6 @@ span.r {
     		<br>
 		<span class="c">MongoDB</span>
     		<img src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" width="42" height="42">
-    		<br>
-		<span class="c">Eclipse</span>
-    		<img src="https://www.eclipse.org/artwork/images/v2/logo-800x188.png" width="42" height="42">
-    		<br>
-		<span class="c">Android Studio</span>
-    		<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" width="42" height="42">
     		<br>
 		<span class="c">HTML</span>
     		<img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" width="42" height="42">
@@ -69,11 +67,21 @@ span.r {
 		<span class="c">JavaScript</span>
     		<img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" width="42" height="42">
     		<br>
+	</li>
+	<li>
 		<span class="c">Python</span>
     		<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="42" height="42">
     		<br>
+	</li>
+	<li>
+		<span class="c">Eclipse</span>
+    		<img src="https://www.eclipse.org/artwork/images/v2/logo-800x188.png" width="42" height="42">
+    		<br>
+		<span class="c">Android Studio</span>
+    		<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" width="42" height="42">
+    		<br>
 		<span class="c">Amazon Web Services</span>
-    		<img src="https://it.wikipedia.org/wiki/Amazon_Web_Services#/media/File:Amazon_Web_Services_Logo.svg" width="42" height="42">
+    		<img src="https://cdn-images-1.medium.com/max/1200/1*tFl-8wQUENETYLjX5mYWuA.png" width="42" height="42">
     		<br>
 		<span class="c">LaTeX</span>
     		<img src="https://i.stack.imgur.com/zHFFO.png" width="42" height="42">

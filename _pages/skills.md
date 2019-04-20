@@ -39,6 +39,9 @@ span.r {
 		<span class="c">Java Servlet</span>
     		<img src="http://10minbasics.com/wp-content/uploads/2016/03/servlets-logo.png" width="42" height="42">
     		<br>
+		<span class="c">Java RMI</span>
+    		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiqkYXTt4visMRrrOatwjxXcLm7_h2QXKa8y93KdDhiwV3xbt-" width="42" height="42">
+    		<br>
 	</li>
 	<li>
 		<span class="c">C</span>
@@ -79,6 +82,12 @@ span.r {
     		<br>
 		<span class="c">Android Studio</span>
     		<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" width="42" height="42">
+    		<br>
+		<span class="c">MATLAB</span>
+    		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" width="42" height="42">
+    		<br>
+		<span class="c">Vim</span>
+    		<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width="42" height="42">
     		<br>
 		<span class="c">Amazon Web Services</span>
     		<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="42" height="42">

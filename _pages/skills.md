@@ -98,11 +98,17 @@ span.r {
 		<span class="c">Kali Linux</span>
     		<img src="https://ih1.redbubble.net/image.330661891.3438/flat,550x550,075,f.jpg" width="42" height="42">
     		<br>
+		<span class="c">Ubuntu</span>
+    		<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Ubuntu_logoib.svg" width="42" height="42">
+    		<br>
 		<span class="c">Open SSL</span>
     		<img src="https://developer.akamai.com/sites/default/files/styles/blog_featured_image/public/2018-08/open%20ssl_0.png?itok=TSQaWD03" width="42" height="42">
     		<br>
 		<span class="c">Wireshark</span>
     		<img src="http://static.movingpackets.net/2014/10/wireshark-logo.png" width="42" height="42">
+    		<br>
+		<span class="c">GNS3</span>
+    		<img src="https://www.gns3.com/assets/images/logo-colour.png" width="42" height="42">
     		<br>
 	</li>
 </ul>

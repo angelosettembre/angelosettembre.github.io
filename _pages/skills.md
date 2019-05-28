@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 permalink: /skills/
 title: "Skills"
-last_modified_at: 2019-04-20T17:53:42-04:00
+last_modified_at: 2019-05-28T20:30:42-04:00
 toc: true
 ---
 

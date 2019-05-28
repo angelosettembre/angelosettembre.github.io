@@ -110,5 +110,8 @@ span.r {
 		<span class="c">GNS3</span>
     		<img src="https://www.gns3.com/assets/images/logo-colour.png" width="42" height="42">
     		<br>
+		<span class="c">Nebula</span>
+    		<img src="https://nitesculucian.github.io/uploads/Screenshot%20from%202018-07-16%2000-20-16.png" width="42" height="42">
+    		<br>
 	</li>
 </ul>

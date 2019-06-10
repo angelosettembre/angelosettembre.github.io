@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 permalink: /skills/
 title: "Skills"
-last_modified_at: 2019-05-28T20:30:42-04:00
+last_modified_at: 2019-06-10T14:30:42-04:00
 toc: true
 ---
 
@@ -110,8 +110,16 @@ span.r {
 		<span class="c">GNS3</span>
     		<img src="https://www.gns3.com/assets/images/logo-colour.png" width="42" height="42">
     		<br>
+	</li>
+	<li>
 		<span class="c">Nebula Exploit</span>
     		<img src="http://digibond.wpengine.netdna-cdn.com/wp-content/uploads/2015/01/ffc-capture-the-flag-400x400.png" width="42" height="42">
-    		<br>
+		<br>
+		<span class="c">DVWA Exploit</span>
+    		<img src="https://www.cyberpunk.rs/wp-content/uploads/2019/03/dvwa_bg.jpg" width="42" height="42">
+		<br>
+		<span class="c">Protostar Exploit</span>
+    		<img src="https://old.liveoverflow.com/media/img/blog/stack0.png" width="42" height="42">
+		<br>
 	</li>
 </ul>

@@ -109,7 +109,7 @@ author:
   name             : "Angelo Settembre"
   avatar           : "/assets/img/logo.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Computer Security Student"
-  location         : "University of Salerno, Italy"
+  location         : "Salerno, Italy"
   email            :
   links:
     - label: "Email"

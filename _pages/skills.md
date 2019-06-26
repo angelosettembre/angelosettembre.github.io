@@ -83,6 +83,9 @@ span.r {
 		<span class="c">Android Studio</span>
     		<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" width="42" height="42">
     		<br>
+		<span class="c">Git</span>
+    		<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="42" height="42">
+    		<br>
 		<span class="c">MATLAB</span>
     		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" width="42" height="42">
     		<br>

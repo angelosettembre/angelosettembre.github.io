@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 permalink: /skills/
 title: "Skills"
-last_modified_at: 2019-06-26T13:32:42-04:00
+last_modified_at: 2019-07-19T12:32:42-04:00
 toc: true
 ---
 
@@ -49,6 +49,11 @@ span.r {
     		<br>
 		<span class="c">MPI</span>
     		<img src="https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2017/05/MPIlogo2.gif" width="42" height="42">
+    		<br>
+	</li>
+	<li>
+		<span class="c">SCALA</span>
+    		<img src="https://upload.wikimedia.org/wikipedia/en/8/85/Scala_logo.png" width="42" height="42">
     		<br>
 	</li>
 	<li>

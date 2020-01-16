@@ -98,6 +98,7 @@ span.r {
     		<br>
 		<span class="c">MATLAB</span>
     		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" width="42" height="42">
+		<br>
 		<span class="c">RStudio</span>
     		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1920px-RStudio_logo_flat.svg.png" width="42" height="42">
     		<br>

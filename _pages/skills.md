@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 permalink: /skills/
 title: "Skills"
-last_modified_at: 2019-09-09T10:32:42-04:00
+last_modified_at: 2019-01-16T20:19:42-04:00
 toc: true
 ---
 
@@ -57,6 +57,11 @@ span.r {
     		<br>
 	</li>
 	<li>
+		<span class="c">R</span>
+    		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1280px-R_logo.svg.png" width="42" height="42">
+    		<br>
+	</li>
+	<li>
 		<span class="c">SQL</span>
     		<img src="https://banner2.kisspng.com/20180526/oqt/kisspng-microsoft-sql-server-mysql-database-logo-5b098c6ebad6d7.7316225815273524307653.jpg" width="42" height="42">
     		<br>
@@ -93,13 +98,22 @@ span.r {
     		<br>
 		<span class="c">MATLAB</span>
     		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" width="42" height="42">
+		<span class="c">RStudio</span>
+    		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RStudio_logo_flat.svg/1920px-RStudio_logo_flat.svg.png" width="42" height="42">
     		<br>
 		<span class="c">Vim</span>
     		<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" width="42" height="42">
     		<br>
+	</li>
+	<li>
 		<span class="c">Amazon Web Services</span>
     		<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="42" height="42">
     		<br>
+		<span class="c">Microsoft Azure</span>
+    		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1920px-Microsoft_Azure_Logo.svg.png" width="42" height="42">
+    		<br>
+	</li>
+	<li>
 		<span class="c">LaTeX</span>
     		<img src="https://i.stack.imgur.com/zHFFO.png" width="42" height="42">
     		<br>
